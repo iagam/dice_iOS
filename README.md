@@ -1,4 +1,4 @@
-![banner](/Documentation/banner.jpeg)
+![banner](/Documentation/banner.png)
 
 # Dicee
 
