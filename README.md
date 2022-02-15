@@ -1,4 +1,4 @@
-![banner](/Documentation/hexagonal-technology-pattern-mesh-background-with-text-space_1017-26293.jpeg)
+![banner](/Documentation/banner.jpeg)
 
 # Dicee
 
