@@ -1,4 +1,4 @@
-![banner](https://github.com/appbrewery/Dicee-iOS13/blob/master/Documentation/AppBreweryBanner.png)
+![banner](/Documentation/hexagonal-technology-pattern-mesh-background-with-text-space_1017-26293.jpeg)
 
 # Dicee
 
