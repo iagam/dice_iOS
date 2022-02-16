@@ -23,10 +23,16 @@ class ViewController: UIViewController {
         // Who         What    Value
         diceImageViewL.alpha = 0.9
         diceImageViewR.alpha = 0.9
-        
-        
     }
 
-
+    //IBAction allows UI to change code on press of the button
+    @IBAction func rollButtonPressed(_ sender: UIButton) {
+        
+        // Who         What    Value
+        diceImageViewL.image = UIImage(named: "DiceFour")
+        diceImageViewR.image = UIImage(named: "DiceFour")
+        
+    }
+    
 }
 
