@@ -18,9 +18,6 @@ class ViewController: UIViewController {
     UIImage(named: "DiceFour"), UIImage(named: "DiceFive"),
     UIImage(named: "DiceSix")]
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
 
     //IBAction allows UI to change value based on press of the button
     @IBAction func rollButtonPressed(_ sender: UIButton) {
