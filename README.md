@@ -7,7 +7,7 @@
 We’re going to make a Dice roll app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
 
-## What we will learn
+## Learning Outcomes
 
 * Create an app with behaviour and functionality.
 * Create links between the Interface Builder files and code using IBActions and IBOutlets.
